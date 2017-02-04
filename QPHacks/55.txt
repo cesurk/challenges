@@ -1,0 +1,1 @@
+Write a (new) program that will find the first 100 primes and stores them in a text file.

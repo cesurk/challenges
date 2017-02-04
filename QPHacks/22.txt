@@ -1,0 +1,1 @@
+Without reference, create a program that stores the first 100 numbers in the fibonacci sequence in a linked list. Include a print function.
